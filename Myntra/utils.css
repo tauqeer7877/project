@@ -1,0 +1,33 @@
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+
+}
+
+.justify-center{
+    justify-content: center;
+
+}
+
+.space-between{
+    justify-content: space-between;
+
+}
+
+.semibold{
+    font-weight: bolder;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+    
+}
+.mx-2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
